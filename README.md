@@ -7,21 +7,12 @@ la disciplina programarea calculatoarelor
 Scopul lucrării: Studierea posibilităţilor şi mijloacelor limbajului C pentru programarea algoritmilor de prelucrare a tablourilor bidimensionale. Sarcină (cоnform variantelor): Pentru tabloul bidimensional dat din n linii şi m coloane:
 
 Varianta 6. Să se calculeze numărul de minimuri locale ale tabloului. Un element al tabloului este minim local, dacă este strict mai mic decât toţi vecinii săi.
-
- 
 Fig 1.1
 <img width="941" height="1022" alt="image" src="https://github.com/user-attachments/assets/ab0c7219-d20a-4ab3-8469-07ec2fc7f69e" />
-
-
- 
 Fig 1.2
 <img width="941" height="981" alt="image" src="https://github.com/user-attachments/assets/ffe703cf-95b2-4056-b2de-48f804fff30b" />
-
- 
 Fig 1.3
 <img width="695" height="555" alt="image" src="https://github.com/user-attachments/assets/a39f689c-2d16-48dc-a5da-a98f7b32f3d9" />
-
-
 #include <stdio.h>
 
 int main(void) {
